@@ -11,6 +11,7 @@
     <modules>
         <module>hdfsday-02</module>
         <module>mr-day02</module>
+        <module>hbase</module>
     </modules>
 
 
